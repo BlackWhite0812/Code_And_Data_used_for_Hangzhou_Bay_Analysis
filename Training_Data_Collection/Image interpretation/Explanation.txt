@@ -1,0 +1,4 @@
+1. eePlaygroundScript.fmt
+Google earth engine script used in survey design
+2. trainingsurvey1100_V3.cep
+Designed survey which is used to do visualization interpretation in google earth pro
